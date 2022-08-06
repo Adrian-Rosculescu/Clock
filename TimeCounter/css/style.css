@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.clock {
+    padding: 50px;
+    margin: 400px;
+	background-color: rgb(30, 69, 112);
+	color: rgb(255, 255, 255);
+	display: grid;
+	place-items: center;
+	font-size: 50px;
+    border-radius: 50px;
+    font-size: 80px;
+}
